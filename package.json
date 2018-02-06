@@ -1,6 +1,6 @@
 {
   "name": "webpack-config-aimake",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "main": "index.js",
   "description": "AiMake webpack config.",
   "license": "MIT",
