@@ -1,6 +1,6 @@
 {
   "name": "webpack-config-aimake",
-  "version": "0.0.2",
+  "version": "0.2.2",
   "main": "index.js",
   "description": "AiMake webpack config.",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-runtime": "^6.23.0",
     "eslint": "^4.16.0",
-    "eslint-config-aimake": "^0.0.1"
+    "eslint-config-aimake": "latest"
   },
   "dependencies": {
     "autoprefixer": "^7.2.5",
